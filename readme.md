@@ -10,7 +10,7 @@ Og siden jeg har flere ESP8266 ligende i en skuff, så hvorfor ikke bare bruke d
 
 Jeg bruker vanlig ESC kontroller for motoren. Jeg vil bruke ESP8266 og potensiometeretere for å kontrollere hastigheten.
 
-Enkelt lite program, men den gjøre jobben.
+Enkelt lite program, men den gjør jobben.
 
 
-Blir spennende å se når jeg setter dette sammen med hoved prosjektet å se hvodan alt virker sammen.
+Blir spennende å se når jeg setter denne sammen med hoved prosjektet, se hvodan alt virker sammen.
